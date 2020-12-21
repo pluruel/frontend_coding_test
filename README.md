@@ -16,7 +16,7 @@
 2. Title, text, duetime를 입력하고 Submit을 클릭하면 아래에 새로운 태스크가 등록되게 해주세요.  
    a. 여기서 Duetime은 DD/HH/MM 으로 입력되며, 현재로부터 DD일 HH시간 MM분 후에 완료되어야 하는 Task를 의미합니다.  
    b. 칸이 비어있거나 포맷이 다르면 등록되지 않아야 합니다.
-3. Left for the deadline항목이 비어있습니다. 해당 항목에 HH:MM:SS로 남은시간을 나타내주세요.
+3. Left for the deadline항목이 비어있습니다. 해당 항목에 HH:MM:SS로 남은시간을 나타내주세요.  
    a. 이는 1초마다 갱신되어야 합니다.
 4. TODO 항목을 삭제할 수 있는 버튼을 만들어주세요.
 
