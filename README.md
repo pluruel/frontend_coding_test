@@ -4,7 +4,7 @@
 
 ---
 
-1. fork / clone
+1. fork, clone
 2. yarn install / npm install
 3. yarn start / npm start
 
