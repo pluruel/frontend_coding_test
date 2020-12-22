@@ -26,7 +26,7 @@
 ### 보너스 문제(시간이 남으면 진행해주세요)
 
 1. TodoList 하단에 별도의 컴포넌트를 만들어, DeletedTodoList를 만들어주세요.  
-   a. TodoList내가 아닌 Main Component에 속하게 해주세요.
+   a. TodoList내가 아닌 Main Component에 속하게 해주세요.  
    b. Todo의 형태는 삭제 버튼을 제외하고 동일해야합니다.
 2. "created"를 누르면 TODO가 생성된 시간순으로 정렬이 되도록 만들어주세요 한번 더 클릭 시 원래 순서(id 순)로 돌아가야 합니다.
 3. TODO를 작업 완료 일자를 기준으로 모으고 작업 완료 일자를 해당 묶음 위에 보이게 해 주세요  
